@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yousha97.github.io/freehs-math/sitemap.xml

@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "বিনা মূল্যে গণিত",
+    "description": "",
+    "home_page_url": "https://yousha97.github.io/freehs-math",
+    "feed_url": "https://yousha97.github.io/freehs-math/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ইউশা_রশিদ"
+    },
+    "items": [
+        {
+            "id": "https://yousha97.github.io/freehs-math/ekaadsh-dbaadsh-shrennir-skl-adhyaayy.html",
+            "url": "https://yousha97.github.io/freehs-math/ekaadsh-dbaadsh-shrennir-skl-adhyaayy.html",
+            "title": "একাদশ দ্বাদশ শ্রেণির সকল অধ্যায় ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "ইউশা_রশিদ"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-29T17:31:32+06:00",
+            "date_modified": "2022-08-29T17:31:32+06:00"
+        }
+    ]
+}

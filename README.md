@@ -1,1 +1,0 @@
-# freehs-math.github.io
